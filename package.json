@@ -1,7 +1,7 @@
 {
   "name": "dash",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"# CCF\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,5 +17,13 @@
     "mqtt": "^5.14.1",
     "sqlite3": "^5.1.7",
     "ws": "^8.18.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xenableII/CCF.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xenableII/CCF/issues"
+  },
+  "homepage": "https://github.com/xenableII/CCF#readme"
 }
